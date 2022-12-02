@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adepegba1
+- 👋 Hi, I’m Adepegba David Ayobami
 - 👀 I’m interested in becoming a Junior Software Engineer
 - 🌱 I’m currently learning how to code on ALX platform
 - 💞️ I’m looking to collaborate on ...
