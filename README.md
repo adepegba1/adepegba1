@@ -19,21 +19,33 @@ I'm passionate about solving problems with **data and technology**. Currently, I
 
 ### 📊 Data Analysis & BI  
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="Excel" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Sheets" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/331760/sql-database-sql-azure.svg" alt="SQL Server" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/>
+ ### 📊 Data Analysis & BI  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" alt="Excel" title="Excel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlesheets.svg" alt="Google Sheets" title="Google Sheets" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" title="SQL Server" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" alt="Power BI" title="Power BI" width="40" height="40"/>
+</p>
+
 </p>
 
 ### 💻 Programming & Development  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" title="React"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original.svg" alt="VsCode" width="40" height="40" title="VsCode"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40" title="Jupyter"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original.svg" alt="VsCode" width="40" height="40" title="VsCode"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original.svg" alt="VsCode" width="40" height="40" title="VsCode"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original.svg" alt="VsCode" width="40" height="40" title="VsCode"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original.svg" alt="VsCode" width="40" height="40" title="VsCode"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original.svg" alt="VsCode" width="40" height="40" title="VsCode"/>
   
 </p>
 
