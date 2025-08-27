@@ -73,7 +73,7 @@ I'm passionate about solving problems with **data and technology**. Currently, I
     <img src="https://www.svgrepo.com/show/223047/gmail.svg" alt="Gmail" width="50" height="50"/>
   </a>
    <a href="https://twitter.com/adepegbadavid1">
-    <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" alt="Twitter" width="50" height="50"/>
+    <img src="https://img.icons8.com/?size=100&id=YfCbGWCWcuar&format=png&color=000000" alt="Twitter" width="50" height="50"/>
   </a>
  
 </p>
