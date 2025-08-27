@@ -38,14 +38,18 @@ I'm passionate about solving problems with **data and technology**. Currently, I
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" title="React"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original.svg" alt="VsCode" width="40" height="40" title="VsCode"/>
-
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original-wordmark.svg" alt="VsCode" width="40" height="40" title="VsCode"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40" title="Jupyter"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original.svg" alt="VsCode" width="40" height="40" title="VsCode"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original.svg" alt="VsCode" width="40" height="40" title="VsCode"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original.svg" alt="VsCode" width="40" height="40" title="VsCode"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original.svg" alt="VsCode" width="40" height="40" title="VsCode"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original.svg" alt="VsCode" width="40" height="40" title="VsCode"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40" title="Anaconda"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/canva/canva-original.svg" alt="Canva" width="40" height="40" title="Canva"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/chrome/chrome-original.svg" alt="Chrome" width="40" height="40" title="Chrome"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/codepen/codepen-original.svg" alt="Codepen" width="40" height="40" title="Codepen"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/github/github-original.svg" alt="Github" width="40" height="40" title="Github"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="40" height="40" title="Kaggle"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40" title="Matplotlib"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" title="Pandas"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40" title="Numpy"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" width="40" height="40" title="Tensorflow"/>
   
 </p>
 
@@ -65,9 +69,13 @@ I'm passionate about solving problems with **data and technology**. Currently, I
   <a href="https://www.linkedin.com/in/david-adepegba" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="mailto:adepegba1@gmail.com">
+  <a href="mailto:adepegbadavid2@gmail.com">
     <img src="https://www.svgrepo.com/show/223047/gmail.svg" alt="Gmail" width="40" height="40"/>
   </a>
+   <a href="https://twitter.com/adepegbadavid1">
+    <img src="https://www.svgrepo.com/show/223047/gmail.svg" alt="Gmail" width="40" height="40"/>
+  </a>
+ 
 </p>
 - 📫 How to reach me [adepegbadavid1](https://twitter.com/adepegbadavid1)
 
