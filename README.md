@@ -22,34 +22,34 @@ I'm passionate about solving problems with **data and technology**. Currently, I
  ### 📊 Data Analysis & BI  
 <p align="left">
   <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" title="Excel" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlesheets.svg" alt="Google Sheets" title="Google Sheets" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=30461&format=png&color=000000" alt="Google Sheets" title="Google Sheets" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" alt="MySQL" title="MySQL" width="50" height="50"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" title="SQL Server" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" alt="Power BI" title="Power BI" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" alt="Power BI" title="Power BI" width="50" height="50"/>
 </p>
 
 </p>
 
 ### 💻 Programming & Development  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" title="React"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original-wordmark.svg" alt="VsCode" width="40" height="40" title="VsCode"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40" title="Jupyter"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40" title="Anaconda"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/canva/canva-original.svg" alt="Canva" width="40" height="40" title="Canva"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/chrome/chrome-original.svg" alt="Chrome" width="40" height="40" title="Chrome"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/codepen/codepen-original.svg" alt="Codepen" width="40" height="40" title="Codepen"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/github/github-original.svg" alt="Github" width="40" height="40" title="Github"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="40" height="40" title="Kaggle"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40" title="Matplotlib"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" title="Pandas"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40" title="Numpy"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" width="40" height="40" title="Tensorflow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" title="React"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-original.svg" alt="Git" width="50" height="50" title="Git"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original-wordmark.svg" alt="VsCode" width="50" height="50" title="VsCode"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50" title="Jupyter"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="50" height="50" title="Anaconda"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/canva/canva-original.svg" alt="Canva" width="50" height="50" title="Canva"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/chrome/chrome-original.svg" alt="Chrome" width="50" height="50" title="Chrome"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/codepen/codepen-original.svg" alt="Codepen" width="50" height="50" title="Codepen"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/github/github-original.svg" alt="Github" width="50" height="50" title="Github"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="50" height="50" title="Kaggle"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50" title="Matplotlib"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" title="Pandas"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/numpy/numpy-original.svg" alt="Numpy" width="50" height="50" title="Numpy"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" width="50" height="50" title="Tensorflow"/>
   
 </p>
 
