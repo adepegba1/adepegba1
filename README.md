@@ -1,5 +1,7 @@
-# 👋 Hi, I'm David Adepegba
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=24&duration=3000&pause=1000&color=00BFAE&center=true&vCenter=true&multiline=true&width=600&lines=David+Adepegba;Data+Analyst;Aspiring+Data+Scientist;Front-End+Developer;Software+Development+Student)](https://git.io/typing-svg)
+# 👋 [![Typing SVG](https://readme-typing-svg.demolab.com?size=24&duration=3000&pause=1000&color=00BFAE&center=false&vCenter=true&multiline=true&width=600&lines=Hi,+I'm+David+Adepegba)](https://github.com/adepegba1)
+
+
+
 
 
 
