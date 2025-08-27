@@ -67,17 +67,16 @@ I'm passionate about solving problems with **data and technology**. Currently, I
 ## 🔗 Let's Connect  
 <p align="left">
   <a href="https://www.linkedin.com/in/david-adepegba" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
   <a href="mailto:adepegbadavid2@gmail.com">
-    <img src="https://www.svgrepo.com/show/223047/gmail.svg" alt="Gmail" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/223047/gmail.svg" alt="Gmail" width="50" height="50"/>
   </a>
    <a href="https://twitter.com/adepegbadavid1">
-    <img src="https://www.svgrepo.com/show/223047/gmail.svg" alt="Gmail" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" alt="Twitter" width="50" height="50"/>
   </a>
  
 </p>
-- 📫 How to reach me [adepegbadavid1](https://twitter.com/adepegbadavid1)
 
 <!---
 adepegba1/adepegba1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
