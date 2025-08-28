@@ -62,7 +62,7 @@ I'm passionate about solving problems with **data and technology**. Currently, I
 
 ## 🔗 Let's Connect  
 <p align="left">
-    <a href="https://www.linkedin.com/in/davidadepegba1" target="_blank">
+    <a href="https://www.linkedin.com/in/adepegbadavid1" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" title="LinkedIn/>
   </a>
   <a href=" mailto:adepegbadavid2@gmail.com">
