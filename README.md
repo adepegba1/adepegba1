@@ -62,13 +62,13 @@ I'm passionate about solving problems with **data and technology**. Currently, I
 
 ## 🔗 Let's Connect  
 <p align="left">
-    <a href="https://www.linkedin.com/in/david-adepegba" target="_blank">
+    <a href="https://www.linkedin.com/in/davidadepegba1" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" title="LinkedIn/>
   </a>
   <a href=" mailto:adepegbadavid2@gmail.com">
         <img src="https://www.svgrepo.com/show/223047/gmail.svg" alt="Gmail" width="50" height="50" title="Gmail"/>
     </a>
-    <a href="https://twitter.com/adepegbadavid1">
+    <a href="https://twitter.com/adepegbadavid1" target="_blank">
         <img src="https://img.icons8.com/?size=100&id=YfCbGWCWcuar&format=png&color=000000" alt="Twitter" width="50" height="50" title="Twitter"/>
     </a>
 
