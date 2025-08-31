@@ -35,7 +35,7 @@ I'm passionate about solving problems with **data and technology**. Currently, I
     <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" title="CSS3" />
     <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg" alt="React" width="50" height="50" title="React" />
     <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-original.svg" alt="Git" width="50" height="50" title="Git" />
-    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original-wordmark.svg" alt="VsCode" width="50" height="50" title="VsCode" />
+    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original-wordmark.svg" alt="Vs Code" width="50" height="50" title="Vs Code" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50" title="Jupyter" />
     <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="50" height="50" title="Anaconda" />
     <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/canva/canva-original.svg" alt="Canva" width="50" height="50" title="Canva" />
@@ -47,6 +47,7 @@ I'm passionate about solving problems with **data and technology**. Currently, I
     <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" title="Pandas" />
     <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/numpy/numpy-original.svg" alt="Numpy" width="50" height="50" title="Numpy" />
     <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" width="50" height="50" title="Tensorflow" />
+    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/csharp/csharp-original.svg" alt="C sharp" width="50" height="50" title="C sharp" />
 
 </p>
 
