@@ -29,11 +29,11 @@ I'm passionate about solving problems with **data and technology**. Currently, I
 
 ### 💻 Programming & Development  
 <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" title="Python" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" title="JavaScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" title="HTML5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" title="CSS3" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" title="React" />
+    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" alt="Python" width="50" height="50" title="Python" />
+    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" title="JavaScript" />
+    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" title="HTML5" />
+    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" title="CSS3" />
+    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg" alt="React" width="50" height="50" title="React" />
     <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-original.svg" alt="Git" width="50" height="50" title="Git" />
     <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original-wordmark.svg" alt="VsCode" width="50" height="50" title="VsCode" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50" title="Jupyter" />
